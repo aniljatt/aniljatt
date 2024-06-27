@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @aniljatt
-- 👀 I’m interested in machine learning and web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me just drop a messege
+🔭 I’m currently working on building Backend Application Development
+🌱 I’m currently learning Java
+👯 I’m looking to collaborate on DevOps
+🤔 I’m looking for help with System Design and DevOps
+💬 Ask me about Data Structures and Algorithms, SQL, Python, .NET, Java, C#
+📫 You can reach me on LinkedIn:https://www.linkedin.com/in/anil-jat/
+😄 Pronouns: He/Him/His
